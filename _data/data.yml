@@ -103,6 +103,10 @@ projects:
         link: https://github.com/7orttu/minesweeper
         tagline: C# Tehty Miinaharava projekti.
 
+      - title: Bassipy
+        link: https://github.com/7orttu/bassipy
+        tagline: A music bot for Discord made with python and yt-dlp.
+
       - title: Simple Clicker Bot
         link: https://github.com/7orttu/simple-clicker-bot
         tagline: A simple color or target image clicker bot using pyautogui Python Library.
