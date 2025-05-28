@@ -54,15 +54,14 @@ sidebar:
 career-profile:
     title: Minä
     summary: |
-      Hei! Nimeni on Niklas, opiskelen kolmatta vuotta sovellusohjelmointia Gradialla ja olen innostunut sovellusten ja pelien kehityksestä. Minulla on
-      intohimo oppia uutta, ratkoa ongelmia ja luoda ratkaisuja. Olen laittanut omia ja koulun projekteja Githubiini ja niitä voi sieltä käydä katsomassa!
+      Hei! Nimeni on Niklas, opiskelin kolme vuotta sovellusohjelmointia Gradia Viitaniemen Kampuksella ja valmistuin sieltä vuonna 2025. Olen kiinnostunut sovellusten ja etenkin pelien kehityksestä. Kaikki julkiset projektini löytyvät Githubistani!
    
 education:
     title: Koulutus
     info:
       - degree: Ohjelmistokehittäjä | Tieto- ja viestintätekniikan perustutkinto
         university: Ammattiopisto Gradia, Viitaniemen kampus
-        time: 2022 - nykyhetki(valmistuminen 2025)
+        time: 2022 - 2025
         details: |
           
 
@@ -73,14 +72,21 @@ experiences:
         time: 01.12.2022 - 24.02.2023
         company: 
         details: | 
-          Työskentelin Jyväskylän pääkirjastolla "datataiturina", eli auttamassa asiakkaita kaikenlaisissa
-          laite ongelmissa tai muuten vain laitteiden käytössä.
+          Työskentelin Jyväskylän pääkirjastolla "datataiturina", eli autoin asiakkaita laitteiden käytössä ja ongelmissa.
 
       - role: Mosaiikki ry | Web-ohjelmoija
         time: 07.03.2024 - 31.05.2024 
         company: 
         details: | 
           Tein töitä Mosaiikki ry:llä ohjelmoimassa web-pohjaista peliä lapsille.
+
+      - role: Linjalaser Oy
+        time: 06.03.2025 - 30.4.2025
+        company:
+        details: |
+          Linjalaserilla tein metallialan hommia kuten niittausta, kasaamista, ruuvaamista, senkkausta, kierteitä ja poraamista.
+
+
 
 #certifications:
 #      title: Certifications
@@ -99,21 +105,17 @@ projects:
     intro:
       
     assignments:
-      - title: Minesweeper
-        link: https://github.com/7orttu/minesweeper
-        tagline: C# Tehty Miinaharava projekti.
-
       - title: Bassipy
         link: https://github.com/7orttu/bassipy
         tagline: A music bot for Discord made with python and yt-dlp.
 
+      - title: Minesweeper
+        link: https://github.com/7orttu/minesweeper
+        tagline: Minesweeper made with C#.
+
       - title: Simple Clicker Bot
         link: https://github.com/7orttu/simple-clicker-bot
         tagline: A simple color or target image clicker bot using pyautogui Python Library.
-
-      - title: Suomen Eläimet
-        link: https://github.com/7orttu/suomen-elaimet
-        tagline: HTML, CSS ja JS ohjelmointikielillä tehty opetuspeli suomen eläimistä.
 
 #oss:
 #    title: OSS Contributions
