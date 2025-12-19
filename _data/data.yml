@@ -18,7 +18,7 @@ sidebar:
     #timezone:
     citizenship: Suomalainen | 16.05.2006 / Jyväskylä
     #website: #do not add http://
-    linkedin: https://www.linkedin.com/in/niklas-hillman-874a02397/
+    linkedin: hillmanniklas
     #xing:
     github: n1xerii
     #telegram: # add your nickname without '@' sign
@@ -144,7 +144,7 @@ skills:
         level: 75%
         
       - name: Python
-        level: 65%
+        level: 70%
 
       - name: C++
         level: 35%
@@ -153,7 +153,7 @@ skills:
         level: 75%
 
       - name: Web-ohjelmointi (HTML, CSS, JS, Wordpress, PHP)
-        level: 50%
+        level: 55%
 
       - name: SQL
         level: 50%
