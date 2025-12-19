@@ -1,3 +1,3 @@
-CV -
+** - CV - **
 
-https://7orttu.github.io/cv/
+https://n1xerii.github.io/cv/
