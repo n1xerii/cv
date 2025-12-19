@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Niklas Hillman
-    tagline: Opiskelija
+    tagline: Työnhakija
     avatar: 
 
     # Sidebar links
@@ -18,9 +18,9 @@ sidebar:
     #timezone:
     citizenship: Suomalainen | 16.05.2006 / Jyväskylä
     #website: #do not add http://
-    #linkedin:
+    linkedin: https://www.linkedin.com/in/niklas-hillman-874a02397/
     #xing:
-    github: 7orttu
+    github: n1xerii
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Minä
     summary: |
-      Hei! Nimeni on Niklas, opiskelin kolme vuotta sovellusohjelmointia Gradia Viitaniemen Kampuksella ja valmistuin sieltä vuonna 2025. Olen kiinnostunut sovellusten ja etenkin pelien kehityksestä. Kaikki julkiset projektini löytyvät Githubistani!
+      Hei! Nimeni on Niklas, opiskelin kolme vuotta sovellusohjelmointia Gradia Viitaniemen Kampuksella ja valmistuin sieltä vuonna 2025. Olen kiinnostunut sovellusten ja etenkin pelien kehityksestä. Julkiset projektini löytyvät Githubistani!
    
 education:
     title: Koulutus
@@ -89,12 +89,12 @@ experiences:
 
 
 #certifications:
-#      title: Certifications
+#      title: Todistukset
 #      list:
 #        - name:
 #          start:
 #          end:
-#          organization:
+#          organization: Gradia Jyväskylä
 #         credentialid:
 #          credentialurl:
 #          credentialname:
@@ -106,15 +106,15 @@ projects:
       
     assignments:
       - title: Bassipy
-        link: https://github.com/7orttu/bassipy
+        link: https://github.com/n1xerii/bassipy
         tagline: A music bot for Discord made with python and yt-dlp.
 
       - title: Minesweeper
-        link: https://github.com/7orttu/minesweeper
+        link: https://github.com/n1xerii/minesweeper
         tagline: Minesweeper made with C#.
 
       - title: Simple Clicker Bot
-        link: https://github.com/7orttu/simple-clicker-bot
+        link: https://github.com/n1xerii/simple-clicker-bot
         tagline: A simple color or target image clicker bot using pyautogui Python Library.
 
 #oss:
@@ -144,22 +144,22 @@ skills:
         level: 75%
         
       - name: Python
-        level: 60%
+        level: 65%
 
-      - name: HTML & CSS
-        level: 55%
+      - name: C++
+        level: 35%
 
-      - name: JavaScript
-        level: 40%
+      - name: Microsoft Developer Työkalut (Visual Studio, VSCode, .NET)
+        level: 75%
+
+      - name: Web-ohjelmointi (HTML, CSS, JS, Wordpress, PHP)
+        level: 50%
 
       - name: SQL
         level: 50%
 
-      - name: PHP
-        level: 10%
-
-      - name: Wordpress
-        level: 50%
+      - name: Microsoft Office Sovellukset (Excel, Word, Powerpoint)
+        level: 70%
       
 
 #footer: >
