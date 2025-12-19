@@ -45,11 +45,26 @@ sidebar:
         - idiom: Espanja
           level: Välttävä
 
-#    interests:
-#      title: Interests
-#      info:
-#        - item: Climbing
-#          link:
+    interests:
+      title: Harrastukset
+      info:
+        - item: Ohjelmointi*️⃣
+          link:
+
+        - item: Linux🐧
+          link:
+
+        - item: Videopelit🎮
+          link:
+
+        - item: Musiikki🎵
+          link:
+
+        - item: Salitreenaus🏋️
+          link:
+
+        - item: Koripallo🏀
+          link:
           
 career-profile:
     title: Minä
