@@ -122,7 +122,7 @@ projects:
     assignments:
       - title: Bassipy
         link: https://github.com/n1xerii/bassipy
-        tagline: A music bot for Discord made with python and yt-dlp.
+        tagline: Music bot for Discord made with python and yt-dlp.
 
       - title: Minesweeper
         link: https://github.com/n1xerii/minesweeper
@@ -165,7 +165,7 @@ skills:
         level: 35%
 
       - name: Linux (Pääosin Arch Linux)
-        level: 50&
+        level: 50%
 
       - name: Microsoft Developer Työkalut (Visual Studio, VSCode, .NET)
         level: 75%
