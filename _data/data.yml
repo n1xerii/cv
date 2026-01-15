@@ -9,14 +9,14 @@ sidebar:
 
     # Profile information
     name: Niklas Hillman
-    tagline: Työnhakija
+    tagline: Ohjelmistokehittäjä
     avatar: image.jpg
 
     # Sidebar links
     email: hillmanniklas@gmail.com
     phone: +358 40 0185958
     #timezone:
-    citizenship: Suomalainen | 16.05.2006 / Jyväskylä
+    #citizenship: Suomalainen | 16.05.2006 / Jyväskylä
     #website: #do not add http://
     linkedin: hillmanniklas
     #xing:
@@ -39,12 +39,6 @@ sidebar:
         - idiom: Englanti
           level: Sujuva
 
-        - idiom: Ruotsi
-          level: Välttävä
-
-        - idiom: Espanja
-          level: Välttävä
-
     interests:
       title: Harrastukset
       info:
@@ -54,7 +48,7 @@ sidebar:
         - item: Linux🐧
           link:
 
-        - item: Videopelit🎮
+        - item: Pelaaminen🎮
           link:
 
         - item: Musiikki🎵
@@ -69,7 +63,7 @@ sidebar:
 career-profile:
     title: Minä
     summary: |
-      Hei! Nimeni on Niklas, olen intohimoinen, motivoitunut ja luova tekijä, ja olen erittäin kiinnostunut tietokoneista ja etenkin ohjelmoinnista. Aluksi oli hankala oppia ohjelmointia ilman koulutusta ja en löytänyt siihen aikaa koulun yhteydessä. Yläkoulun loputtua päätin lähteä opiskelemaan ohjelmistokehittäjäksi Gradialle. Se auttoi minua oppimaan lisää ohjelmoinnista ja valmistuin vuonna 2025. Rakastan ideointia, oppimista, uusien asioiden luomista ja syvällistä ajattelua, ja olen kiinnostunut sovellusten ja etenkin pelien kehityksestä. Julkiset projektini löytyvät Github profiilistani.
+      Hei! Nimeni on Niklas, olen intohimoinen, motivoitunut ja luova tekijä, ja olen erittäin kiinnostunut tietokoneista ja etenkin ohjelmoinnista. Kiinnostuksieni kautta opiskelin Ohjelmistökehittäjäksi ja valmistuin vuonna 2025. Rakastan ideointia, oppimista, uusien asioiden luomista ja syvällistä ajattelua, ja olen kiinnostunut sovellusten ja etenkin pelien kehityksestä. Julkiset projektini löytyvät Github profiilistani.
    
 education:
     title: Koulutus
@@ -87,20 +81,19 @@ experiences:
         time: 01.12.2022 - 24.02.2023
         company: 
         details: | 
-          Työskentelin Jyväskylän pääkirjastolla "datataiturina", eli autoin asiakkaita laitteiden käytössä ja ongelmissa.
+          Työskentelin Jyväskylän pääkirjastolla "datataiturina", eli IT-tukihenkilönä ja autoin asiakkaita yleisten laitteiden käytössä ja ongelmien korjaamisessa. Sain paljon kokemusta asiakkaiden kanssa työskentelystä ja asioiden selittämisestä heille ymmärrettävästi. Opin myös soveltamaan saamaani tietoa ja korjaamaan ongelmia mitä en ole aikaisemmin kohdannut.
 
       - role: Mosaiikki ry | Web-ohjelmoija
         time: 07.03.2024 - 31.05.2024 
         company: 
         details: | 
-          Tein töitä Mosaiikki ry:llä ohjelmoimassa web-pohjaista peliä lapsille.
+          Tein töitä Mosaiikki ry:llä ohjelmoimassa nettipohjaista peliä lapsille. Opin lähinnä HTML, CSS ja JavaScript kielien kayttöä ja niiden toimintaa kokonaisuutena, mutta lisäksi opin myös käyttöliittymän suunnittelua.
 
-      - role: Linjalaser Oy
+      - role: Linjalaser Oy | Metallityöntekijä
         time: 06.03.2025 - 30.4.2025
         company:
         details: |
-          Linjalaserilla tein metallialan hommia kuten niittausta, kasaamista, ruuvaamista, senkkausta, kierteitä ja poraamista.
-
+          Linjalaserilla tein metallialan töitä kuten niittausta, poraamista ja muuta yleistä kokoonpanoon liittyvää työtä.
 
 
 #certifications:
