@@ -148,6 +148,9 @@ skills:
     title: Taidot
 
     toolset:
+      - name: Tietotekniikka (Tietokoneet, Laitteet, Ohjelmistot, Asiakaspalvelu)
+        level: 80%
+
       - name: C#
         level: 75%
         
