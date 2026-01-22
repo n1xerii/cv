@@ -152,19 +152,19 @@ skills:
         level: 75%
         
       - name: Python
-        level: 70%
+        level: 65%
 
       - name: C++
         level: 35%
 
       - name: Linux (Arch Linux)
-        level: 50%
+        level: 45%
 
       - name: Microsoft Developer Työkalut (Visual Studio, VSCode, .NET)
         level: 75%
 
       - name: Web-ohjelmointi (HTML, CSS, JS, Wordpress, PHP)
-        level: 55%
+        level: 50%
 
       - name: SQL
         level: 50%
