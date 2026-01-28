@@ -163,11 +163,14 @@ skills:
       - name: Linux (Arch Linux)
         level: 45%
 
-      - name: Microsoft Developer Työkalut (Visual Studio, VSCode, .NET)
-        level: 75%
-
       - name: Web-ohjelmointi (HTML, CSS, JS, Wordpress, PHP)
         level: 50%
+
+      - name: AI
+        level: 35%
+
+      - name: Microsoft Developer Työkalut (Visual Studio, VSCode, .NET)
+        level: 75%
 
       - name: SQL
         level: 50%
