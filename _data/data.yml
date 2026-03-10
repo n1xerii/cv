@@ -68,7 +68,7 @@ career-profile:
 education:
     title: Koulutus
     info:
-      - degree: Ohjelmistokehittäjä | Tieto- ja viestintätekniikan perustutkinto
+      - degree: Ohjelmistokehittäjä | Tieto- ja viestintätekniikan perustutkinto | Työharjoittelu
         university: Ammattiopisto Gradia, Viitaniemen kampus
         time: 2022 - 2025
         details: |
@@ -77,7 +77,7 @@ education:
 experiences:
     title: Historia
     info:
-      - role: Jyväskylän Pääkirjasto | IT-tukihenkilö
+      - role: Jyväskylän Pääkirjasto | IT-tukihenkilö | Työharjoittelu
         time: 01.12.2022 - 24.02.2023
         company: 
         details: | 
@@ -89,7 +89,7 @@ experiences:
         details: | 
           Tein töitä Mosaiikki Ry:llä ohjelmoimassa nettipohjaista peliä lapsille. Opin lähinnä HTML, CSS ja JavaScript kielien kayttöä ja niiden toimintaa kokonaisuutena, mutta lisäksi opin myös käyttöliittymän suunnittelua.
 
-      - role: Linjalaser Oy | Metallityöntekijä
+      - role: Linjalaser Oy | Metallityöntekijä | Työharjoittelu
         time: 06.03.2025 - 30.4.2025
         company:
         details: |
