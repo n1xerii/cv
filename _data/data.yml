@@ -68,7 +68,7 @@ career-profile:
 education:
     title: Koulutus
     info:
-      - degree: Ohjelmistokehittäjä | Tieto- ja viestintätekniikan perustutkinto | Työharjoittelu
+      - degree: Ohjelmistokehittäjä | Tieto- ja viestintätekniikan perustutkinto
         university: Ammattiopisto Gradia, Viitaniemen kampus
         time: 2022 - 2025
         details: |
@@ -83,7 +83,7 @@ experiences:
         details: | 
           Työskentelin Jyväskylän pääkirjastolla "datataiturina", eli IT-tukihenkilönä ja autoin asiakkaita yleisten laitteiden käytössä ja ongelmien korjaamisessa. Sain paljon kokemusta asiakkaiden kanssa työskentelystä ja asioiden selittämisestä heille ymmärrettävästi. Opin myös soveltamaan saamaani tietoa ja korjaamaan ongelmia mitä en ole aikaisemmin kohdannut.
 
-      - role: Mosaiikki Ry | Web-ohjelmoija
+      - role: Mosaiikki Ry | Web-ohjelmoija | Työharjoittelu
         time: 07.03.2024 - 31.05.2024 
         company: 
         details: | 
