@@ -117,12 +117,6 @@ projects:
         link: https://github.com/n1xerii/bassipy
         tagline: Music bot for Discord made with python and yt-dlp.
 
-
-repositories:
-    title: Repot
-    intro:
-
-    assignments:
       - title: Qswidget
         link: https://github.com/n1xerii/com.nixerii.qswidget
         tagline: KDE Plasma widget for adding GIFs on the desktop.
