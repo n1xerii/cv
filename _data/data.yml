@@ -119,15 +119,16 @@ projects:
 
       - title: Qswidget
         link: https://github.com/n1xerii/com.nixerii.qswidget
-        tagline: KDE Plasma widget for adding GIFs on the desktop.
+        tagline: KDE Plasma widget for searching the web.
 
       - title: Gifframes
         link: https://github.com/n1xerii/com.nixerii.gifframes
-        tagline: KDE Plasma widget for searching the web.
+        tagline: KDE Plasma widget for adding GIFs on the desktop.
 
       - title: Minesweeper
         link: https://github.com/n1xerii/minesweeper
         tagline: Minesweeper application made with C#.
+
 #oss:
 #    title: OSS Contributions
 #    intro: >
