@@ -161,8 +161,8 @@ skills:
       - name: Python
         level: 65%
 
-      - name: C++
-        level: 35%
+      - name: QML
+        level: 40%
 
       - name: Linux (Arch Linux)
         level: 45%
@@ -170,16 +170,16 @@ skills:
       - name: Web-ohjelmointi (HTML, CSS, JS, Wordpress, PHP)
         level: 50%
 
-      - name: AI
-        level: 35%
-
-      - name: Microsoft Developer Työkalut (Visual Studio, VSCode, .NET)
-        level: 75%
-
       - name: SQL
         level: 50%
 
-      - name: Microsoft Office Sovellukset (Excel, Word, Powerpoint)
+      - name: AI
+        level: 30%
+
+      - name: Microsoft Developer (Visual Studio, VSCode, .NET)
+        level: 75%
+
+      - name: Microsoft Office (Excel, Word, Powerpoint)
         level: 70%
       
 
