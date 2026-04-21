@@ -121,9 +121,6 @@ projects:
         link: https://github.com/n1xerii/minesweeper
         tagline: Minesweeper made with C#.
 
-      - title: Simple Clicker Bot
-        link: https://github.com/n1xerii/simple-clicker-bot
-        tagline: A simple color or target image clicker bot using pyautogui Python Library.
 
 #oss:
 #    title: OSS Contributions
