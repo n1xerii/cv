@@ -117,11 +117,23 @@ projects:
         link: https://github.com/n1xerii/bassipy
         tagline: Music bot for Discord made with python and yt-dlp.
 
+
+repositories:
+    title: Repot
+    intro:
+
+    assignments:
+      - title: Qswidget
+        link: https://github.com/n1xerii/com.nixerii.qswidget
+        tagline: KDE Plasma widget for adding GIFs on the desktop.
+
+      - title: Gifframes
+        link: https://github.com/n1xerii/com.nixerii.gifframes
+        tagline: KDE Plasma widget for searching the web.
+
       - title: Minesweeper
         link: https://github.com/n1xerii/minesweeper
-        tagline: Minesweeper made with C#.
-
-
+        tagline: Minesweeper application made with C#.
 #oss:
 #    title: OSS Contributions
 #    intro: >
