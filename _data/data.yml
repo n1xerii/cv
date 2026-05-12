@@ -109,7 +109,7 @@ experiences:
 #          details:
             
 projects:
-    title: Projektit
+    title: Projektit & Repot
     intro:
       
     assignments:
@@ -161,26 +161,26 @@ skills:
       - name: Python
         level: 65%
 
-      - name: QML
-        level: 40%
+      - name: JavaScript
+        level: 60%
 
-      - name: Linux (Arch Linux)
-        level: 45%
-
-      - name: Web-ohjelmointi (HTML, CSS, JS, Wordpress, PHP)
+      - name: HTML/CSS
         level: 50%
 
       - name: SQL
         level: 50%
 
-      - name: AI
-        level: 30%
+      - name: QT/QML
+        level: 50%
 
       - name: Microsoft Developer (Visual Studio, VSCode, .NET)
         level: 75%
 
       - name: Microsoft Office (Excel, Word, Powerpoint)
         level: 70%
+
+      - name: Linux (Arch Linux)
+        level: 45%
       
 
 #footer: >
