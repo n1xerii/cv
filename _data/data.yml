@@ -17,7 +17,7 @@ sidebar:
     phone: +358 40 0185958
     #timezone:
     #citizenship:
-    #website: #do not add http://
+    website: n1xerii.github.io/nixerii.dev/ #do not add http://
     linkedin: hillmanniklas
     #xing:
     github: n1xerii
@@ -54,8 +54,7 @@ sidebar:
         - item: Musiikki🎵
           link:
 
-        - item: Salitreenaus🏋️
-          link:
+        - item: Kitara🎸
 
         - item: Koripallo🏀
           link:
@@ -78,22 +77,22 @@ experiences:
     title: Historia
     info:
       - role: Jyväskylän Pääkirjasto | IT-tukihenkilö | Työharjoittelu
-        time: 01.12.2022 - 24.02.2023
+        time: 1.12.2022 - 24.2.2023
         company: 
         details: | 
           Työskentelin Jyväskylän pääkirjastolla "datataiturina", eli IT-tukihenkilönä ja autoin asiakkaita yleisten laitteiden käytössä ja ongelmien korjaamisessa. Sain paljon kokemusta asiakkaiden kanssa työskentelystä ja asioiden selittämisestä heille ymmärrettävästi. Opin myös soveltamaan saamaani tietoa ja korjaamaan ongelmia mitä en ole aikaisemmin kohdannut.
 
       - role: Mosaiikki Ry | Web-ohjelmoija | Työharjoittelu
-        time: 07.03.2024 - 31.05.2024 
+        time: 7.3.2024 - 31.5.2024
         company: 
         details: | 
           Tein töitä Mosaiikki Ry:llä ohjelmoimassa nettipohjaista peliä lapsille. Opin lähinnä HTML, CSS ja JavaScript kielien kayttöä ja niiden toimintaa kokonaisuutena, mutta lisäksi opin myös käyttöliittymän suunnittelua.
 
-      - role: Linjalaser Oy | Metallityöntekijä | Työharjoittelu
-        time: 06.03.2025 - 30.4.2025
+      - role: Linjalaser Oy | Metallityöntekijä | Kesätyö
+        time: tämänhetkinen
         company:
         details: |
-          Linjalaserilla tein metallialan töitä kuten niittausta, poraamista ja muuta yleistä kokoonpanoon liittyvää työtä.
+          Metallialan töitä kuten poraamista, särmäämistä, pemmitystä, niittausta, hiomista.
 
 
 #certifications:
@@ -115,19 +114,15 @@ projects:
     assignments:
       - title: Bassipy
         link: https://github.com/n1xerii/bassipy
-        tagline: Music bot for Discord made with python and yt-dlp.
+        tagline: Discord music bot made with python and yt-dlp.
 
-      - title: Qswidget
-        link: https://github.com/n1xerii/com.nixerii.qswidget
-        tagline: KDE Plasma widget for searching the web.
+      - title: Sweepalonia
+        link: https://github.com/n1xerii/sweepalonia.git
+        tagline: Minesweeper application made with Avalonia UI.
 
-      - title: Gifframes
-        link: https://github.com/n1xerii/com.nixerii.gifframes
-        tagline: KDE Plasma widget for adding GIFs on the desktop.
-
-      - title: Minesweeper
-        link: https://github.com/n1xerii/minesweeper
-        tagline: Minesweeper application made with C#.
+      - title: Videoscreen
+        link: https://github.com/n1xerii/com.nixerii.videoscreen.git
+        tagline: KDE Plasma widget for adding videos to a frame on the desktop or panel.
 
 #oss:
 #    title: OSS Contributions
@@ -173,14 +168,14 @@ skills:
       - name: QT/QML
         level: 50%
 
-      - name: Microsoft Developer (Visual Studio, VSCode, .NET)
+      - name: Microsoft Development (Visual Studio, VSCode, .NET)
         level: 75%
 
       - name: Microsoft Office (Excel, Word, Powerpoint)
         level: 70%
 
       - name: Linux (Arch Linux)
-        level: 45%
+        level: 50%
       
 
 #footer: >
